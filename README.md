@@ -1,4 +1,4 @@
-# YouTube Clone Project
+# Video_verse
 
 ![Project Logo](https://i.ibb.co/s9Qys2j/logo.png)
 
